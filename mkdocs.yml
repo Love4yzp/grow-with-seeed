@@ -1,0 +1,7 @@
+site_name: Grow with Seeed
+site_url: https://seeed.spenyan.com
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: lightblue
