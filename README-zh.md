@@ -5,4 +5,4 @@
 
 # Grow with Seeed
 
-Share the skills that learned in Seeed Studio as an application engineer.
+分享我作为应用工程师需要掌握的基本技能。
